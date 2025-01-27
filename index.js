@@ -26,3 +26,6 @@ server.use(router)
 server.listen(3000, () => {
   console.log('JSON Server está em execução!')
 })
+
+const express = require('express');
+const app = express();
