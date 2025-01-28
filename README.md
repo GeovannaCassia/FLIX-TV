@@ -32,5 +32,5 @@ Nota: O ambiente e as configurações do JSON Server foram gentilmente fornecido
 <li>Outras Ferramentas: node.js</li>
 </ul>
 
-# Acesse o FLIX TV
-<a href="https://geovannacassia.github.io/FLIX-TV/">FLIX TV</a>
+# Clique aqui para acessar : <a href="https://geovannacassia.github.io/FLIX-TV/">FLIX TV</a>
+
