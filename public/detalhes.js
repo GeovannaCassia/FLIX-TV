@@ -26,7 +26,7 @@ strInfo += `<br><h2 class="text-danger m-auto ">${data.original_name}</h2>
                 <br>
                 <h7 class="fw-bold text-white">Lançamento: ${data.last_air_date}</h7>
                 <br><h7 class="fw-bold text-white">N° de Temporadas:  ${data.number_of_seasons} - N° de Episodios:  ${data.number_of_episodes}</h7>
-                <br><h7 class="fw-bold text-white">Tipo: Internacional - ${data.origin_country}</h7>
+                <br><h7 class="fw-bold text-white">Pais de origem: ${data.origin_country}</h7>
                 <br><br><h5 class="fst-italic text-white"> ${data.overview}</h5>`;
 
 document.getElementById('info').innerHTML = strInfo;

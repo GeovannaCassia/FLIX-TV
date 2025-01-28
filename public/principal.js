@@ -117,7 +117,7 @@ fetch(`${API}`, {
                   
                   <div class="col-md-5">
                     <div class="p-3 text-white d-flex align-items-center"> 
-                        <img class= "rounded-circle" src="assets/images/Imagens/geovanna.png" alt="" width="180" height="200">
+                        <img class= "rounded-circle" src="public/assets/images/Imagens/geovanna.png" alt="" width="180" height="200">
                         <div class="p-3">
                         <h5 class="text-danger">Autoria</h5>
                         <h7 class="fw-bolder">Aluno: ${autoria[0].aluno}</h7> 
@@ -209,7 +209,7 @@ function Detalhes(id) {
     .then(data => {
       console.log('Info: ', data)
       const queryString = new URLSearchParams(data).toString();
-      window.location.href = `detalhes.html?${queryString}`;
+      window.location.href = `public/detalhes.html?${queryString}`;
     })
 }
 
