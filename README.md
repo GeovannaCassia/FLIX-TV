@@ -33,4 +33,7 @@ Nota: O ambiente e as configurações do JSON Server foram gentilmente fornecido
 </ul>
 
 # Clique aqui para acessar : <a href="https://geovannacassia.github.io/FLIX-TV/">FLIX TV</a>
+<ul>
+ <li>Para melhor experiencia com a plataforma recomendo que faça o download e execute no json server, pois recursos provinientes do json como os favoritos não está disponível no GitHub pages.</li>
+</ul>
 
