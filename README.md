@@ -1,6 +1,6 @@
 # FLIX-TV
 
- # Sobre o projeto
+ # 📌 Sobre o projeto
  O Flix TV foi desenvolvido durante o meu 1º período na faculdade, com o objetivo de facilitar a busca por séries. O site permite:
   <ul>
     <li>Consultar novas séries, as mais populares e organizar por categorias.</li>
@@ -24,7 +24,7 @@ Também há a funcionalidade de adicionar séries aos seus favoritos, tornando o
 Nota: O ambiente e as configurações do JSON Server foram gentilmente fornecidos pelo professor Romel Carneiro, da PUC Minas.
 
 
-# Tecnologias ultilizadas
+# 🚀 Tecnologias ultilizadas
 <ul> 
 <li>Frontend: HTML 5, CSS 3, Bootsrap</li>
 <li>Backend: Java Script</li>
@@ -32,7 +32,7 @@ Nota: O ambiente e as configurações do JSON Server foram gentilmente fornecido
 <li>Outras Ferramentas: node.js</li>
 </ul>
 
-# Clique aqui para acessar : <a href="https://geovannacassia.github.io/FLIX-TV/">FLIX TV</a>
+# 🔗 <a href="https://geovannacassia.github.io/FLIX-TV/">Acesse o Projeto</a>
 <ul>
  <li>Para melhor experiencia com a plataforma recomendo que faça o download e execute no json server, pois recursos provinientes do JSON, como os seus favoritos, não está disponível no GitHub pages.</li>
 </ul>
