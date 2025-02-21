@@ -1,4 +1,4 @@
-# FLIX-TV
+# 📺 FLIX-TV
 
  # 📌 Sobre o projeto
  O Flix TV foi desenvolvido durante o meu 1º período na faculdade, com o objetivo de facilitar a busca por séries. O site permite:
